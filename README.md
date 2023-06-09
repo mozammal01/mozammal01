@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Mozammal Haque</h1>
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=mozammal01&label=Profile%20views&color=0e75b6&style=flat" alt="mozammal01" /> 
+<img src="https://img.shields.io/github/followers/mozammal01" alt="mozammal01" /> 
+</p><br>
 
 <!--
 **mozammal01/mozammal01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
