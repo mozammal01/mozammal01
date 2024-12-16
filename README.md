@@ -1,3 +1,5 @@
+![a building]([https://github.com/zackkrida/zackkrida/raw/main/44650035.jpg](https://res.cloudinary.com/mozammal01/image/upload/v1734327817/banner_lflhgo.png))
+
 <h1 align="center">Hi 👋, I'm Mozammal Haque</h1>
 
 <p align="left">
