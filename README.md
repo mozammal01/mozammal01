@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/github/followers/mozammal01" alt="mozammal01" /> 
 </p><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&vCenter=true&height=60&lines=A+Full+Stack+Developer;A+MERN+Stack+Developer;A+React+JS+Developer;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&vCenter=true&height=60&lines=A+Full+Stack+Developer;A+MERN+Stack+Developer;A+React+JS+Developer;)
 
 
 
