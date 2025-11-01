@@ -1,4 +1,4 @@
-<img align="center">![a building]([https://res.cloudinary.com/mozammal01/image/upload/v1761992654/MOZAMMAL_HAQUE_qz3hxj.png]))</img>
+<img align="center" src="https://res.cloudinary.com/mozammal01/image/upload/v1761992654/MOZAMMAL_HAQUE_qz3hxj.png">
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=mozammal01&label=Profile%20views&color=0e75b6&style=flat" alt="mozammal01" /> 
